@@ -3,10 +3,6 @@
 
 Язык: java
 
-Библиотеки:
-	BigDecimal
-	ExecutorService
-	Executors
-	Callable
+Библиотеки: BigDecimal, ExecutorService, Executors, Callable
   
 Пример использования в test/java/TestExample.java
